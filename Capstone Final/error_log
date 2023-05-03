@@ -1,0 +1,7 @@
+[02-May-2023 06:36:40 UTC] PHP Warning:  Undefined array key "days" in /home/xaqycvsi9o87/public_html/FinalPartnerDashboard.php on line 149
+[02-May-2023 06:36:40 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($pieces) must be of type array, string given in /home/xaqycvsi9o87/public_html/FinalPartnerDashboard.php:149
+Stack trace:
+#0 /home/xaqycvsi9o87/public_html/FinalPartnerDashboard.php(149): implode()
+#1 /home/xaqycvsi9o87/public_html/FinalPartnerDashboard.php(167): profileSubmit()
+#2 {main}
+  thrown in /home/xaqycvsi9o87/public_html/FinalPartnerDashboard.php on line 149
